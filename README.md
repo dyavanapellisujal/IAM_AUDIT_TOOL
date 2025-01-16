@@ -6,7 +6,7 @@
 A tool to automate the auditing of AWS IAM services, helping identify security misconfigurations and enforce best practices.
 
 ## Features  
-- 🔑 Access Key Audit: Detects IAM access keys older than 30 days.  
+- 🔑 Access Key Audit: Detects IAM access keys older than 30 days(Can be modified in the script).  
 - 🔒 MFA Enforcement Check: Verifies if MFA is enabled for IAM users.  
 - 📊 Customizable Reports: Export results in CSV or Excel formats.  
 
